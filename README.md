@@ -32,5 +32,5 @@ Machine Learning Project | Created an ML-based project which assesses the risk i
 ![Screenshot](https://github.com/nikhil21268/Credit-Risk-Analysis/blob/main/Figures/Screenshots/18.png)
 ![Screenshot](https://github.com/nikhil21268/Credit-Risk-Analysis/blob/main/Figures/Screenshots/19.png)
 ![Screenshot](https://github.com/nikhil21268/Credit-Risk-Analysis/blob/main/Figures/Screenshots/20.png)
-![Screenshot](https://github.com/nikhil21268/Credit-Risk-Analysis/blob/main/Figures/Screenshots/21.png)
+![Screenshot](https://github.com/nikhil21268/Credit-Risk-Analysis/blob/main/Figures/Screenshots/21.jpg)
 
